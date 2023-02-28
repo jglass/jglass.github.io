@@ -91,6 +91,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ~~- Add SCSS preprocessor to use mixins~~
 ~~- Add mixins for screen sizes https://itnext.io/writing-media-queries-with-sass-mixins-3ea591ea3ea4 ~~
 - Github pages not loading assets
+- Error handling for when Spotify request fails
 - Finish Styling questions
 - Update tests
 - Compartmentalize list into features, bugs, wishlist, ideas
