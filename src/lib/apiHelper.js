@@ -2,8 +2,7 @@ import { Buffer } from 'buffer';
 
 const client_id = process.env.REACT_APP_SPOTIFY_CLIENT_ID;
 const client_secret = process.env.REACT_APP_SPOTIFY_CLIENT_SECRET;
-console.log(client_id);
-console.log('client id');
+
 export const postData = async (url = '', opts = {}) => {
   const response = await fetch(url, {
     method: 'POST', // *GET, POST, PUT, DELETE, etc.
