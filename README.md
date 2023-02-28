@@ -93,8 +93,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 - Github pages not loading assets
 - Error handling for when Spotify request fails
 - Finish Styling questions
-
-- 
+- https://developer.spotify.com/documentation/general/design-and-branding/
 - Update tests
 - Compartmentalize list into features, bugs, wishlist, ideas
 - Add placeholders for spotify content when loading results
